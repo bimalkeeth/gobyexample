@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-   fmt.Printf("%b\n",byte('A'))
+	fmt.Printf("%b\n", byte('A'))
+
 }
